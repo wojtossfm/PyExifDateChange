@@ -11,3 +11,6 @@ Additional configuration flags provide extended functionality:
 * --simulate - new dates are printed to stdout but not saved in the meta-information. Useful for testing whether you picked the right offset.
 * --verbose - print new dates to stdout when modifying the meta-information.
 * --subtract - subtract the offset instead of adding it
+
+Currently depends on:
+* http://tilloy.net/dev/pyexiv2/
