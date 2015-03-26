@@ -8,6 +8,6 @@ That is the precise goal for which I wrote this small script.
 E.g. usage: python date_change.py <target directory> <days> <hours> <minutes> <seconds>
 
 Additional configuration flags provide extended functionality:
-# --simulate - new dates are printed to stdout but not saved in the meta-information. Useful for testing whether you picked the right offset.
-# --verbose - print new dates to stdout when modifying the meta-information.
-# --subtract - subtract the offset instead of adding it
+* --simulate - new dates are printed to stdout but not saved in the meta-information. Useful for testing whether you picked the right offset.
+* --verbose - print new dates to stdout when modifying the meta-information.
+* --subtract - subtract the offset instead of adding it
